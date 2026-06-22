@@ -1,0 +1,8 @@
+streamlit
+pandas
+nltk
+scikit-learn
+
+# Optional dependencies for voice input support
+# SpeechRecognition
+# audio_recorder_streamlit
